@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-lgf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5b360fb4-c18a-44f8-af7e-33ac702d0255",
+		"tenantId": "b1051c4b-3b94-41ab-9441-e73a72342fdd"
+	}
+}
